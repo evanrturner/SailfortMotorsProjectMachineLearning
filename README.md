@@ -4,3 +4,5 @@ Project Purpose: With company data, predict employee departure using logistic re
 A fictional company: Sailfort Motors is having issues with high turnover. I am tasked with building a model that predicts whether an employee will leave the company, and to make recommendations to reduce future employee churn. 
 
 The attached jupyter notebook contains my process from EDA, visualizations, feature engineering, building and testing 4 models, selecting the best model, and my recommendations to reduce employee turnover.
+
+This project highlights the importance of interpreting model results. I did not select the model with the highest scoring results. Check out the notebook to find out why!
